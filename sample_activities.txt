@@ -1,0 +1,17 @@
+fiction:5 / essai:5 / langue naturelle:5 / language:5 / analyse:5 / dev:5 / maths:3
+A Song of Ice and Fire / fiction
+Short stories / fiction
+QNTM, Fine Structure / fiction
+Lesswrong sequences / essai
+Gödel, Escher and Bach / essai
+Japonais / langue naturelle
+Portugais / langue naturelle
+Espagnol / langue naturelle
+Scala / language
+Haskell / language
+Javascript / language
+DHTs / crypto / analyse
+Kadoh / crypto / dev
+WebRTC / dev / analyse
+Project Euler / dev / maths
+Crypto challenges Matasano / crypto / dev
