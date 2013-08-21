@@ -11,7 +11,7 @@ How to use it
 -------------
 
 First, feed the program a text file containing:
-- A line listing categories and their priority / weight
-- A line per task you want to be appropriately reminded to perform, along with the categories to which the activity belong
+- A line listing categories and their priority / weight to ponder during the high-level decision process.
+- A line per task you want to be appropriately reminded to perform, along with the categories to which the task belong.
 
 Second, reach new peaks of efficiency and performance.
